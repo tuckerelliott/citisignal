@@ -7,6 +7,6 @@ mountpoints:
 #    type: "markup"
 #    suffix: ".html"
 
-#folders:
-#  /products/plan/: /products/plan/default
-#  /products/: /products/default
+folders:
+  /products/plan/: /products/plan/default
+  /products/: /products/default
